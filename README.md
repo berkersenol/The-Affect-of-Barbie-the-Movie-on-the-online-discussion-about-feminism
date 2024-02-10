@@ -10,3 +10,5 @@ In order to approach this research question, all relevant posts regarding the Ba
 ## Results
 
 The results show an increase in agency for Reddit after the release of the movie, while there is no change for TikTok. Affiliation, on the other hand, only increased for the TikTok community, but for Reddit. We conclude that the movie partially influenced online feminism discussion, reflecting key concepts but not introducing new aspects. Overall the movie didn't substantially diversify the discussion around feminism.
+
+For more detail, please see the paper
